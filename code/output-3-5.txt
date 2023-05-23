@@ -1,0 +1,182 @@
+Correct: Dad
+Guess: Dad
+
+Correct: Larry
+Guess: Larry
+
+Correct: Dad
+Guess: Larry
+
+Correct: Dad
+Guess: Dad
+
+Correct: wart
+Guess: wart
+
+Correct: magic pebble
+Guess: It is unclear who the pronoun "it" refers to in this sentence.
+
+Correct: Wainwrights
+Guess: Wainwrights
+
+Correct: Henry
+Guess: Henry
+
+Correct: tulip bulbs
+Guess: It is not specified in the sentence who the pronoun "they" refers to, so we cannot output a name.
+
+Correct: Facebook
+Guess: Facebook
+
+Correct: Haven
+Guess: C.K. Dexter Haven
+
+Correct: Geoffrey
+Guess: Geoffrey
+
+Correct: Antonio
+Guess: Antonio
+
+Correct: the prairie
+Guess: The Dakota prairie.
+
+Correct: the hole
+Guess: The pronoun "it" refers to the buttonhole.
+
+Correct: stores
+Guess: storekeepers
+
+Correct: sound
+Guess: Dora.
+
+Correct: Dora
+Guess: Dora
+
+Correct: Bernard
+Guess: Bernard
+
+Correct: Bernard
+Guess: Bernard
+
+Correct: Bernard
+Guess: Bernard
+
+Correct: politicians
+Guess: politicians
+
+Correct: settlers
+Guess: settlers
+
+Correct: sons
+Guess: Sons
+
+Correct: Chester
+Guess: Chester
+
+Correct: Uncle Vernon
+Guess: Uncle Vernon
+
+Correct: body
+Guess: the body
+
+Correct: David
+Guess: David
+
+Correct: food
+Guess: I.
+
+Correct: Edward
+Guess: Edward
+
+Correct: Mr. Moncrieff
+Guess: Edward
+
+Correct: Mama
+Guess: Mama
+
+Correct: Alice
+Guess: Alice
+
+Correct: Alice
+Guess: Alice
+
+Correct: Alice
+Guess: Alice
+
+Correct: album
+Guess: Alice
+
+Correct: children
+Guess: children
+
+Correct: things
+Guess: Papa
+
+Correct: Mark
+Guess: Mark
+
+Correct: Mr. Schmidt
+Guess: Mr. Schmidt
+
+Correct: patron
+Guess: There is no name specified in the sentence. The pronoun "he" is referring to a hypothetical illiterate person who might pass by the shops and not be able to read the signs.
+
+Correct: Mark
+Guess: Mark
+
+Correct: Mark
+Guess: Mark
+
+Correct: Mark
+Guess: Mark
+
+Correct: Mr. Singer
+Guess: Mr. Singer
+
+Correct: the captain
+Guess: Captain
+
+Correct: Steve
+Guess: Steve
+
+Correct: Mark
+Guess: Mark
+
+Correct: Mark
+Guess: Mark
+
+Correct: Mark
+Guess: Mark
+
+Correct: mother
+Guess: Tatyana's mother
+
+Correct: mother
+Guess: Tatyana
+
+Correct: Tatyana
+Guess: Tatyana
+
+Correct: mother
+Guess: Tatyana
+
+Correct: Tatyana
+Guess: Tatyana
+
+Correct: the Freemans
+Guess: Freemans
+
+Correct: Tatyana's mother
+Guess: Tatyana's small mother
+
+Correct: table
+Guess: table
+
+Correct: beans
+Guess: Henry
+
+Correct: he and Tatyana
+Guess: Grant
+
+n = 60
+Accuracy: 0.6166666666666667
